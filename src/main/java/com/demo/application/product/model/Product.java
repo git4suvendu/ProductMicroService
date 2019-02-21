@@ -1,6 +1,6 @@
 package com.demo.application.product.model;
 
-public class ProductModel {
+public class Product {
    private String id;
    private String name;
 
